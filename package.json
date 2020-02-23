@@ -1,0 +1,14 @@
+{
+  "name": "ichange",
+  "version": "1.0.0",
+  "description": "Traditional Chinese culture",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "d": "bash deploy.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
